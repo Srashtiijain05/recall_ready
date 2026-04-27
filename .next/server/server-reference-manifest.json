@@ -1,0 +1,150 @@
+{
+  "node": {
+    "4067b8319301e685aa03a8fab1da1bc076c6fdadc0": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 37297,
+          "async": false,
+          "exportedName": "createProject",
+          "filename": "app/(dashboard)/projects/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/actions.ts",
+      "exportedName": "createProject"
+    },
+    "40b971cde3eb1b0d0007b9ff86abf9760f0b621fad": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 37297,
+          "async": false,
+          "exportedName": "deleteProject",
+          "filename": "app/(dashboard)/projects/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/actions.ts",
+      "exportedName": "deleteProject"
+    },
+    "4024cb3b942ce12ca36270a14679e99c446e7b3d31": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/(dashboard)/projects/[id]/page.tsx"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/page.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    },
+    "60a57218ca4c2a283e8b2de7e14f71f7b79945854f": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "deleteChat",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "deleteChat"
+    },
+    "70ad533d7869441148927ec8c389bf487090f88cc0": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "renameChat",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "renameChat"
+    },
+    "400ac30050f6422c633a05e9bc7173e746bc3dbba1": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "resetProject",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "resetProject"
+    },
+    "40750dd6d43e1856999f01abc69cafc7112e95ac96": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "getOrCreateDefaultChat",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "getOrCreateDefaultChat"
+    },
+    "60432d5073581b7ca54c089558d461f4cf4796d7d1": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "deleteDocument",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "deleteDocument"
+    },
+    "60b6a5541d362b91dc73926d8b4c52d09abbd4ab2e": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "uploadDocument",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "uploadDocument"
+    },
+    "60e13fa72969f948654faf49e56820e9e7782a9f81": {
+      "workers": {
+        "app/(dashboard)/projects/[id]/page": {
+          "moduleId": 82264,
+          "async": false,
+          "exportedName": "createChat",
+          "filename": "app/(dashboard)/projects/[id]/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/projects/[id]/actions.ts",
+      "exportedName": "createChat"
+    },
+    "40cda37e81aa52936d6225b9c68f0fca48418a82db": {
+      "workers": {
+        "app/(dashboard)/settings/page": {
+          "moduleId": 32958,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/(dashboard)/settings/page.tsx"
+        }
+      },
+      "filename": "app/(dashboard)/settings/page.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    },
+    "408db97992d5844d7c09bddf87da597a4f6555424e": {
+      "workers": {
+        "app/(dashboard)/settings/page": {
+          "moduleId": 32958,
+          "async": false,
+          "exportedName": "saveSettings",
+          "filename": "app/(dashboard)/settings/actions.ts"
+        }
+      },
+      "filename": "app/(dashboard)/settings/actions.ts",
+      "exportedName": "saveSettings"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "yqBjJi27u4aDyksVh8Cfy3IDj7xfyHYiVEvHgJ2MAtk="
+}

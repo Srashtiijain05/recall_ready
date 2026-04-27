@@ -1,0 +1,29 @@
+{
+  "node": {
+    "40cda37e81aa52936d6225b9c68f0fca48418a82db": {
+      "workers": {
+        "app/(dashboard)/settings/page": {
+          "moduleId": 32958,
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "app/(dashboard)/settings/page.tsx"
+        }
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "app/(dashboard)/settings/page.tsx"
+    },
+    "408db97992d5844d7c09bddf87da597a4f6555424e": {
+      "workers": {
+        "app/(dashboard)/settings/page": {
+          "moduleId": 32958,
+          "async": false,
+          "exportedName": "saveSettings",
+          "filename": "app/(dashboard)/settings/actions.ts"
+        }
+      },
+      "exportedName": "saveSettings",
+      "filename": "app/(dashboard)/settings/actions.ts"
+    }
+  },
+  "edge": {}
+}

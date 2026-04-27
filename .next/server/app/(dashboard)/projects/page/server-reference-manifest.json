@@ -1,0 +1,29 @@
+{
+  "node": {
+    "4067b8319301e685aa03a8fab1da1bc076c6fdadc0": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 37297,
+          "async": false,
+          "exportedName": "createProject",
+          "filename": "app/(dashboard)/projects/actions.ts"
+        }
+      },
+      "exportedName": "createProject",
+      "filename": "app/(dashboard)/projects/actions.ts"
+    },
+    "40b971cde3eb1b0d0007b9ff86abf9760f0b621fad": {
+      "workers": {
+        "app/(dashboard)/projects/page": {
+          "moduleId": 37297,
+          "async": false,
+          "exportedName": "deleteProject",
+          "filename": "app/(dashboard)/projects/actions.ts"
+        }
+      },
+      "exportedName": "deleteProject",
+      "filename": "app/(dashboard)/projects/actions.ts"
+    }
+  },
+  "edge": {}
+}
